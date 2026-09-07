@@ -60,6 +60,12 @@ the merge, then a single database from there:
    background-sediment work. Documented on the
    [refined site](https://seafood-hazards.github.io/multised-refined/).
 
+Over the five generations sits a plain-English layer, the
+[summary site](https://seafood-hazards.github.io/multised-summary/): what the work
+found, element by element, written for a reader who will not open the analysis
+sites. It is not a sixth generation and has no database of its own, and it computes
+nothing: every number on it is read from a file the pipeline wrote.
+
 ## What this site covers
 
 The pages are grouped in the navigation bar.
